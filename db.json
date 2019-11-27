@@ -1,0 +1,13 @@
+{
+  "posts": [
+    { "id": "1", "title": "Today is a great day to eat ramen 🍜📆", "author": "Steve West" },
+    { "id": "2", "title": "How to throw a ramen party 🍜🎉", "author": "Hugo O'Connor" }
+  ],
+  "comments": [
+    { "id": "1", "body": "Yep, great day for a ramen!", "postId": "1" },
+    { "id": "2", "body": "We should have a ramen party!", "postId": "2" },
+    { "id": "3", "body": "I can make the noodles in my pasta maker", "postId": "2" },
+    { "id": "4", "body": "The best ramen in Sydney is definitely Gumshara", "postId": "1" },
+    { "id": "5", "body": "Yes I agree, though it often puts me in a food coma", "postId": "1" }
+  ]
+}
